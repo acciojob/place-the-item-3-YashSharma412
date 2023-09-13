@@ -2,11 +2,10 @@
 .items{
 	width: 200px;
 	height: 200px;
-	
 	background-color: blue;
 	
 }
-.container{
+.holder{
 	display: flex;
 	justify-content: spaced-evenly;
 	align-items: center;
